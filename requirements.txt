@@ -1,0 +1,12 @@
+Package            Version
+------------------ ---------
+certifi            2023.7.22
+charset-normalizer 3.2.0
+forex-python       1.8
+idna               3.4
+pip                23.2.1
+requests           2.31.0
+setuptools         68.0.0
+simplejson         3.19.1
+urllib3            2.0.4
+wheel              0.41.2
